@@ -1,10 +1,6 @@
 # Telecom-Customer-Churn-Analysis
 This project analyzes a dataset of telecom customers to understand factors contributing to customer churn. 
 
-# Telecom Customer Churn Analysis
-
-This project analyzes a dataset of telecom customers to understand factors contributing to customer churn. 
-
 **Data:**
 
 * The dataset contains information about customers, including demographics, service usage, and churn status.
