@@ -25,4 +25,13 @@ This project analyzes a dataset of telecom customers to understand factors contr
 ## Outputs
 
 **Python**
+<br><br>
+
 ![Age](outputs/python/Age%20Distribution%20by%20Churn%20Status.png)
+![](outputs/python/Contract%20Type%20by%20Churn%20Status.png)
+![](outputs/python/Gender%20Distribution%20by%20Churn%20Status.png)
+![](outputs/python/Internet%20Service%20Usage%20by%20Churn%20Status.png)
+
+**R**
+<br><br>
+![](outputs/R/customer_churn_analysis.pdf)
