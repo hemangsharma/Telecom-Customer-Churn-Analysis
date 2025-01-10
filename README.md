@@ -18,9 +18,4 @@ This project analyzes a dataset of telecom customers to understand factors contr
 **Tools:**
 
 * Python
-* pandas
-* NumPy
-* matplotlib
-* seaborn
-* MATLAB (Online)
-* Power BI
+* R
