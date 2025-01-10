@@ -25,4 +25,4 @@ This project analyzes a dataset of telecom customers to understand factors contr
 ## Outputs
 
 **Python**
-[!Age](outputs/python/Age%20Distribution%20by%20Churn%20Status.png)
+![Age](outputs/python/Age%20Distribution%20by%20Churn%20Status.png)
